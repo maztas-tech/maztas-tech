@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maztas-tech
-- 👀 I’m interested in a student job as a data analyst or developer in Java
+- 🧑🏻‍💼 Working in Gramex as a studenthelper in their IT department
 - 🌱 I’m currently learning Java
 
 <!---
