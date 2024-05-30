@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maztas-tech
-- 🧑🏻‍💼 Working in Gramex as a studenthelper in their IT department
+- 🧑🏻‍💼 Currently working on hobby projects
 - 🌱 I’m currently learning Java
 
 <!---
