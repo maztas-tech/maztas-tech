@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maztas-tech
 - 🧑🏻‍💼 Currently working on hobby projects
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and spring framework
 
 <!---
 maztas-tech/maztas-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
