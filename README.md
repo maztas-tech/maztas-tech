@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maztas-tech
-- 🧑🏻‍💼 Currently working on hobby projects
+- 🧑🏻‍💼 Currently working as a tutor for 1. and 2. semester CS students
 - 🌱 I’m currently learning Java and spring framework
 
 <!---
