@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maztas-tech
 - 🧑🏻‍💼 Currently working as a tutor for 1. and 2. semester CS students
-- 🌱 I’m currently learning Java and spring framework
+- 🌱 I’m currently learning JavaScript with React
 
 <!---
 maztas-tech/maztas-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
