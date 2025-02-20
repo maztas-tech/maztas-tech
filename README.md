@@ -5,11 +5,6 @@
   <img src="https://img.shields.io/github/followers/maztas-tech?label=Follow&style=social" alt="maztas-tech" />
 </p>
 
-- 🌱 I’m currently learning **React native and Rust**  
-- 👨‍💻 All my top repositories are pinged under this template
-
----
-
 ### 🚀 Languages and Tools:
 
 <p align="left"> 
